@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/auser/Documents/RoadFighter2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/track.png",
+        "source": "/Users/auser/Documents/RoadFighter2/app/src/main/res/drawable-hdpi/track.png"
+    },
+    {
+        "merged": "/Users/ncatano/StudioProjects/RoadFighter2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/obstacle.png",
+        "source": "/Users/ncatano/StudioProjects/RoadFighter2/app/src/main/res/drawable-hdpi/obstacle.png"
+    },
+    {
+        "merged": "/Users/ncatano/StudioProjects/RoadFighter2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/opponent.png",
+        "source": "/Users/ncatano/StudioProjects/RoadFighter2/app/src/main/res/drawable-hdpi/opponent.png"
+    },
+    {
+        "merged": "/Users/ncatano/StudioProjects/RoadFighter2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/track.png",
+        "source": "/Users/ncatano/StudioProjects/RoadFighter2/app/src/main/res/drawable-hdpi/track.png"
+    },
+    {
+        "merged": "/Users/auser/Documents/RoadFighter2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/obstacle.png",
+        "source": "/Users/auser/Documents/RoadFighter2/app/src/main/res/drawable-hdpi/obstacle.png"
+    },
+    {
+        "merged": "/Users/ncatano/StudioProjects/RoadFighter2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/car.png",
+        "source": "/Users/ncatano/StudioProjects/RoadFighter2/app/src/main/res/drawable-hdpi/car.png"
+    },
+    {
+        "merged": "/Users/ncatano/StudioProjects/RoadFighter2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/ncatano/StudioProjects/RoadFighter2/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/auser/Documents/RoadFighter2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/car.png",
+        "source": "/Users/auser/Documents/RoadFighter2/app/src/main/res/drawable-hdpi/car.png"
+    },
+    {
+        "merged": "/Users/auser/Documents/RoadFighter2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/auser/Documents/RoadFighter2/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/auser/Documents/RoadFighter2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/opponent.png",
+        "source": "/Users/auser/Documents/RoadFighter2/app/src/main/res/drawable-hdpi/opponent.png"
+    }
+]
